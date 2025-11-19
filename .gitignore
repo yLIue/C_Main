@@ -1,0 +1,5 @@
+# C
+.idea/
+cmake-build-debug/
+CMakeLists.txt
+*.exe
